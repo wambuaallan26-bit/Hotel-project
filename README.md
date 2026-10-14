@@ -139,6 +139,6 @@ This project is proprietary to Tembo Hotel.
 
 ## Contact
 
-For questions or more information about this project, please contact the hotel management team.
+For questions or more information about this project, contact user.
 
 ---
